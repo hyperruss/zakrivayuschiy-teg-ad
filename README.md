@@ -1,1 +1,1 @@
-https://hyperruss.github.io/zakrivayuschiy-teg-ad/
+https://hyperruss.github.io/zakrivayuschiy-teg-ad
