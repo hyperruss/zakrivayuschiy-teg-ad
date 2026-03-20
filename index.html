@@ -566,8 +566,8 @@
         <div class="save__button__container">
           <button
             class="button save__button"
-            type="button"
-            onclick="window['dialog-id'].showModal()"
+            type="button" 
+            id="save-btn"
           >
             <svg class="save__button__image" viewBox="0 0 21 21">
               <use href="./svg/floppy.svg#floppy-icon"></use>
@@ -589,7 +589,7 @@
             <button
               type="button"
               class="button close-button"
-              onclick="window['dialog-id'].close()"
+              id="close-btn"
             >
               <span class="button__text">OK</span>
             </button>
